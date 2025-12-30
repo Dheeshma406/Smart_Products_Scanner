@@ -1,0 +1,378 @@
+class_name,product_name,brand,weight,price,expiry
+Amul_Milk,Amul Milk 200ml,Amul,200 ML,15,2027-05-10
+Amul_Milk,Amul Milk 250ml,Amul,250 ML,20,2027-11-20
+Amul_Milk,Amul Milk 500ml,Amul,500 ML,32,2027-12-05
+Amul_Milk,Amul Milk 500ml,Amul,500 ML,35,2028-02-18
+Amul_Milk,Amul Milk 1L,Amul,1 L,58,2028-01-25
+Amul_Milk,Amul Milk 1L,Amul,1 L,62,2028-08-12
+Amul_Milk,Amul Milk 2L,Amul,2 L,120,2028-10-30
+Amul_Milk,Amul Milk 100ml,Amul,100 ML,8,2027-03-15
+Amul_Milk,Amul Milk 150ml,Amul,150 ML,12,2027-04-20
+Amul_Milk,Amul Milk 200ml,Amul,200 ML,16,2027-06-18
+Amul_Milk,Amul Milk 250ml,Amul,250 ML,22,2028-01-10
+Amul_Milk,Amul Milk 300ml,Amul,300 ML,25,2027-08-05
+Amul_Milk,Amul Milk 350ml,Amul,350 ML,28,2027-09-22
+Amul_Milk,Amul Milk 400ml,Amul,400 ML,30,2027-10-30
+Amul_Milk,Amul Milk 450ml,Amul,450 ML,34,2028-02-05
+Amul_Milk,Amul Milk 500ml,Amul,500 ML,34,2028-04-18
+Amul_Milk,Amul Milk 750ml,Amul,750 ML,48,2028-06-12
+Amul_Milk,Amul Milk 900ml,Amul,900 ML,55,2028-07-25
+Amul_Milk,Amul Milk 1L Economy,Amul,1 L,57,2028-03-20
+Amul_Milk,Amul Milk 1L Family Pack,Amul,1 L,65,2029-01-15
+Amul_Milk,Amul Milk 1.5L,Amul,1.5 L,92,2028-09-18
+Amul_Milk,Amul Milk 2L Family Pack,Amul,2 L,125,2029-02-22
+Amul_Milk,Amul Milk 3L,Amul,3 L,185,2029-06-10
+Amul_Milk,Amul Milk 5L Can,Amul,5 L,295,2029-11-30
+Amul_Milk,Amul Milk 10L Can,Amul,10 L,580,2030-04-25
+Amul_Milk,Amul Milk 20L Bulk Pack,Amul,20 L,1120,2031-01-10
+Chakra_Gold,Chakra Gold Atta 250g,Chakra_Gold,250 G,20,2027-08-15
+Chakra_Gold,Chakra Gold Atta 500g,Chakra_Gold,500 G,38,2028-01-05
+Chakra_Gold,Chakra Gold Atta 1kg,Chakra_Gold,1 KG,65,2028-07-20
+Chakra_Gold,Chakra Gold Atta 2kg,Chakra_Gold,2 KG,120,2028-03-12
+Chakra_Gold,Chakra Gold Atta 5kg,Chakra_Gold,5 KG,280,2028-09-30
+Chakra_Gold,Chakra Gold Atta 10kg,Chakra_Gold,10 KG,540,2029-01-18
+Chakra_Gold,Chakra Gold Atta 1kg Economy Pack,Chakra_Gold,1 KG,58,2027-12-22
+Chakra_Gold,Chakra Gold Atta 100g,Chakra_Gold,100 G,10,2027-04-10
+Chakra_Gold,Chakra Gold Atta 200g,Chakra_Gold,200 G,18,2027-06-05
+Chakra_Gold,Chakra Gold Atta 300g,Chakra_Gold,300 G,25,2027-07-18
+Chakra_Gold,Chakra Gold Atta 400g,Chakra_Gold,400 G,32,2027-10-12
+Chakra_Gold,Chakra Gold Atta 750g,Chakra_Gold,750 G,50,2028-02-20
+Chakra_Gold,Chakra Gold Atta 900g,Chakra_Gold,900 G,58,2028-04-05
+Chakra_Gold,Chakra Gold Atta 1.5kg,Chakra_Gold,1.5 KG,88,2028-06-30
+Chakra_Gold,Chakra Gold Atta 3kg,Chakra_Gold,3 KG,165,2028-11-15
+Chakra_Gold,Chakra Gold Atta 4kg,Chakra_Gold,4 KG,220,2029-02-10
+Chakra_Gold,Chakra Gold Atta 6kg,Chakra_Gold,6 KG,330,2029-05-22
+Chakra_Gold,Chakra Gold Atta 7kg,Chakra_Gold,7 KG,385,2029-08-18
+Chakra_Gold,Chakra Gold Atta 15kg,Chakra_Gold,15 KG,780,2029-11-30
+Chakra_Gold,Chakra Gold Atta 20kg,Chakra_Gold,20 KG,1020,2030-03-15
+Colgate_Toothbrush,Colgate Toothbrush Soft,Colgate,1 PC,35,2027-06-15
+Colgate_Toothbrush,Colgate Toothbrush Soft Plus,Colgate,1 PC,36,2027-07-10
+Colgate_Toothbrush,Colgate Toothbrush Soft Max,Colgate,1 PC,38,2027-08-05
+Colgate_Toothbrush,Colgate Toothbrush Soft Advanced,Colgate,1 PC,40,2027-09-18
+Colgate_Toothbrush,Colgate Toothbrush Soft Care,Colgate,1 PC,42,2027-10-22
+Colgate_Toothbrush,Colgate Toothbrush Medium,Colgate,1 PC,40,2027-06-20
+Colgate_Toothbrush,Colgate Toothbrush Medium Plus,Colgate,1 PC,42,2027-07-25
+Colgate_Toothbrush,Colgate Toothbrush Medium Max,Colgate,1 PC,45,2027-09-05
+Colgate_Toothbrush,Colgate Toothbrush Medium Advanced,Colgate,1 PC,48,2027-10-30
+Colgate_Toothbrush,Colgate Toothbrush Medium Care,Colgate,1 PC,50,2027-12-15
+Colgate_Toothbrush,Colgate Toothbrush Hard,Colgate,1 PC,38,2027-05-10
+Colgate_Toothbrush,Colgate Toothbrush Hard Plus,Colgate,1 PC,40,2027-06-28
+Colgate_Toothbrush,Colgate Toothbrush Hard Max,Colgate,1 PC,43,2027-08-12
+Colgate_Toothbrush,Colgate Toothbrush Hard Advanced,Colgate,1 PC,46,2027-09-25
+Colgate_Toothbrush,Colgate Toothbrush Hard Care,Colgate,1 PC,48,2027-11-10
+Colgate_Toothbrush,Colgate Slim Soft Toothbrush,Colgate,1 PC,55,2028-01-25
+Colgate_Toothbrush,Colgate Slim Soft Plus,Colgate,1 PC,58,2028-03-05
+Colgate_Toothbrush,Colgate Slim Soft Max,Colgate,1 PC,62,2028-05-20
+Colgate_Toothbrush,Colgate Slim Soft Advanced,Colgate,1 PC,65,2028-07-18
+Colgate_Toothbrush,Colgate Slim Soft Care,Colgate,1 PC,68,2028-09-10
+Colgate_Toothbrush,Colgate ZigZag Toothbrush,Colgate,1 PC,45,2027-11-30
+Colgate_Toothbrush,Colgate ZigZag Plus,Colgate,1 PC,48,2028-01-10
+Colgate_Toothbrush,Colgate ZigZag Max,Colgate,1 PC,52,2028-03-18
+Colgate_Toothbrush,Colgate ZigZag Advanced,Colgate,1 PC,55,2028-06-25
+Colgate_Toothbrush,Colgate ZigZag Care,Colgate,1 PC,58,2028-09-30
+Colgate_Toothbrush,Colgate Charcoal Clean Toothbrush,Colgate,1 PC,70,2028-09-05
+Colgate_Toothbrush,Colgate Charcoal Clean Plus,Colgate,1 PC,72,2028-10-20
+Colgate_Toothbrush,Colgate Charcoal Clean Max,Colgate,1 PC,75,2028-12-05
+Colgate_Toothbrush,Colgate Charcoal Clean Advanced,Colgate,1 PC,78,2029-02-15
+Colgate_Toothbrush,Colgate Charcoal Clean Care,Colgate,1 PC,80,2029-04-30
+Colgate_Toothbrush,Colgate Kids Toothbrush,Colgate,1 PC,30,2027-07-12
+Colgate_Toothbrush,Colgate Kids Soft Plus,Colgate,1 PC,32,2027-08-25
+Colgate_Toothbrush,Colgate Kids Soft Max,Colgate,1 PC,35,2027-10-05
+Colgate_Toothbrush,Colgate Kids Fun Grip,Colgate,1 PC,38,2027-11-15
+Colgate_Toothbrush,Colgate Kids Advanced Care,Colgate,1 PC,40,2027-12-30
+Dettol,Dettol Antiseptic Liquid 20ml,Dettol,20 ML,18,2027-03-10
+Dettol,Dettol Antiseptic Liquid 30ml,Dettol,30 ML,22,2027-04-05
+Dettol,Dettol Antiseptic Liquid 40ml,Dettol,40 ML,28,2027-05-02
+Dettol,Dettol Antiseptic Liquid 50ml,Dettol,50 ML,35,2027-06-10
+Dettol,Dettol Antiseptic Liquid 60ml,Dettol,60 ML,42,2027-07-08
+Dettol,Dettol Antiseptic Liquid 75ml,Dettol,75 ML,52,2027-08-12
+Dettol,Dettol Antiseptic Liquid 100ml,Dettol,100 ML,65,2027-09-18
+Dettol,Dettol Antiseptic Liquid 125ml,Dettol,125 ML,75,2027-11-18
+Dettol,Dettol Antiseptic Liquid 150ml,Dettol,150 ML,90,2027-12-22
+Dettol,Dettol Antiseptic Liquid 200ml,Dettol,200 ML,115,2028-01-25
+Dettol,Dettol Antiseptic Liquid 250ml,Dettol,250 ML,140,2028-03-22
+Dettol,Dettol Antiseptic Liquid 300ml,Dettol,300 ML,165,2028-04-30
+Dettol,Dettol Antiseptic Liquid 350ml,Dettol,350 ML,190,2028-06-05
+Dettol,Dettol Antiseptic Liquid 400ml,Dettol,400 ML,215,2028-07-12
+Dettol,Dettol Antiseptic Liquid 450ml,Dettol,450 ML,240,2028-08-18
+Dettol,Dettol Antiseptic Liquid 500ml,Dettol,500 ML,260,2028-09-05
+Dettol,Dettol Antiseptic Liquid 600ml,Dettol,600 ML,310,2028-10-20
+Dettol,Dettol Antiseptic Liquid 700ml,Dettol,700 ML,360,2028-11-30
+Dettol,Dettol Antiseptic Liquid 750ml,Dettol,750 ML,390,2029-01-05
+Dettol,Dettol Antiseptic Liquid 800ml,Dettol,800 ML,420,2029-02-10
+Dettol,Dettol Antiseptic Liquid 900ml,Dettol,900 ML,450,2029-03-18
+Dettol,Dettol Antiseptic Liquid 1L,Dettol,1 L,480,2029-01-15
+Dettol,Dettol Antiseptic Liquid 1.25L,Dettol,1.25 L,580,2029-06-22
+Dettol,Dettol Antiseptic Liquid 1.5L,Dettol,1.5 L,680,2029-09-30
+Dettol,Dettol Antiseptic Liquid 2L,Dettol,2 L,880,2030-01-10
+Dettol,Dettol Antiseptic Liquid 3L,Dettol,3 L,1280,2030-06-18
+Dettol,Dettol Antiseptic Liquid 5L,Dettol,5 L,2100,2031-02-25
+Dettol,Dettol Antiseptic Liquid 10L,Dettol,10 L,4100,2032-01-30
+Dettol,Dettol Antiseptic Liquid 15L,Dettol,15 L,6050,2032-08-15
+Dettol,Dettol Antiseptic Liquid 20L,Dettol,20 L,7900,2033-03-20
+Dove_Soap,Dove Beauty Bar 20g,Dove,20 G,15,2027-04-10
+Dove_Soap,Dove Beauty Bar 25g,Dove,25 G,18,2027-05-10
+Dove_Soap,Dove Beauty Bar 30g,Dove,30 G,22,2027-05-20
+Dove_Soap,Dove Beauty Bar 40g,Dove,40 G,26,2027-06-28
+Dove_Soap,Dove Beauty Bar 50g,Dove,50 G,30,2027-06-15
+Dove_Soap,Dove Beauty Bar 60g,Dove,60 G,38,2027-08-15
+Dove_Soap,Dove Beauty Bar 70g,Dove,70 G,42,2027-09-30
+Dove_Soap,Dove Beauty Bar 75g,Dove,75 G,45,2027-09-20
+Dove_Soap,Dove Beauty Bar 80g,Dove,80 G,48,2027-11-10
+Dove_Soap,Dove Beauty Bar 90g,Dove,90 G,54,2028-01-05
+Dove_Soap,Dove Beauty Bar 100g,Dove,100 G,60,2028-07-10
+Dove_Soap,Dove Beauty Bar 110g,Dove,110 G,68,2028-03-18
+Dove_Soap,Dove Beauty Bar 120g,Dove,120 G,72,2028-05-22
+Dove_Soap,Dove Beauty Bar 125g,Dove,125 G,75,2028-02-18
+Dove_Soap,Dove Beauty Bar 140g,Dove,140 G,85,2028-08-30
+Dove_Soap,Dove Beauty Bar 150g,Dove,150 G,90,2028-11-05
+Dove_Soap,Dove Beauty Bar 160g,Dove,160 G,98,2029-01-15
+Dove_Soap,Dove Beauty Bar 180g,Dove,180 G,110,2029-04-20
+Dove_Soap,Dove Beauty Bar 200g,Dove,200 G,120,2029-07-18
+Dove_Soap,Dove Beauty Bar 225g,Dove,225 G,135,2029-09-25
+Dove_Soap,Dove Beauty Bar 250g,Dove,250 G,150,2029-11-30
+Dove_Soap,Dove Beauty Bar 300g,Dove,300 G,175,2030-03-25
+Dove_Soap,Dove Beauty Bar 2 x 50g,Dove,100 G,58,2028-02-10
+Dove_Soap,Dove Beauty Bar 2 x 75g,Dove,150 G,85,2028-06-30
+Dove_Soap,Dove Beauty Bar 2 x 100g,Dove,200 G,120,2028-03-12
+Dove_Soap,Dove Beauty Bar 3 x 75g,Dove,225 G,125,2028-04-25
+Dove_Soap,Dove Beauty Bar 3 x 100g,Dove,300 G,170,2028-04-25
+Dove_Soap,Dove Beauty Bar Economy 50g,Dove,50 G,28,2027-12-05
+Dove_Soap,Dove Beauty Bar Economy 75g,Dove,75 G,42,2027-10-22
+Dove_Soap,Dove Beauty Bar Large 100g,Dove,100 G,65,2028-01-30
+Dove_Soap,Dove Beauty Bar Large 150g,Dove,150 G,95,2029-02-14
+Dove_Soap,Dove Beauty Bar Classic 75g,Dove,75 G,47,2028-08-08
+Dove_Soap,Dove Beauty Bar Classic 100g,Dove,100 G,62,2028-09-18
+Dove_Soap,Dove Beauty Bar Family Pack 500g,Dove,500 G,295,2030-06-20
+Fortune_Oil,Fortune Sunflower Oil 50ml,Fortune,50 ML,12,2026-04-10
+Fortune_Oil,Fortune Sunflower Oil 100ml,Fortune,100 ML,22,2026-06-15
+Fortune_Oil,Fortune Sunflower Oil 200ml,Fortune,200 ML,45,2026-09-05
+Fortune_Oil,Fortune Sunflower Oil 250ml,Fortune,250 ML,55,2026-11-20
+Fortune_Oil,Fortune Sunflower Oil 300ml,Fortune,300 ML,65,2027-01-18
+Fortune_Oil,Fortune Sunflower Oil 400ml,Fortune,400 ML,80,2027-03-12
+Fortune_Oil,Fortune Sunflower Oil 500ml,Fortune,500 ML,85,2027-06-12
+Fortune_Oil,Fortune Sunflower Oil 750ml,Fortune,750 ML,125,2027-11-22
+Fortune_Oil,Fortune Sunflower Oil 900ml,Fortune,900 ML,145,2027-12-30
+Fortune_Oil,Fortune Sunflower Oil 1L,Fortune,1 L,160,2028-05-12
+Fortune_Oil,Fortune Sunflower Oil 1.5L,Fortune,1.5 L,235,2028-08-20
+Fortune_Oil,Fortune Sunflower Oil 2L,Fortune,2 L,315,2026-02-12
+Fortune_Oil,Fortune Sunflower Oil 2.5L,Fortune,2.5 L,390,2028-10-05
+Fortune_Oil,Fortune Sunflower Oil 3L,Fortune,3 L,460,2029-01-18
+Fortune_Oil,Fortune Sunflower Oil 4L,Fortune,4 L,620,2029-05-30
+Fortune_Oil,Fortune Sunflower Oil 5L,Fortune,5 L,780,2028-02-10
+Fortune_Oil,Fortune Sunflower Oil 7.5L,Fortune,7.5 L,1180,2029-08-15
+Fortune_Oil,Fortune Sunflower Oil 10L,Fortune,10 L,1520,2028-08-04
+Fortune_Oil,Fortune Sunflower Oil 15L,Fortune,15 L,2250,2029-12-10
+Harpic,Harpic Power Plus Original 20ml,Harpic,20 ML,18,2027-03-10
+Harpic,Harpic Power Plus Original 30ml,Harpic,30 ML,25,2027-04-05
+Harpic,Harpic Power Plus Original 40ml,Harpic,40 ML,32,2027-05-02
+Harpic,Harpic Power Plus Original 50ml,Harpic,50 ML,40,2027-06-10
+Harpic,Harpic Power Plus Original 75ml,Harpic,75 ML,55,2027-07-18
+Harpic,Harpic Power Plus Original 100ml,Harpic,100 ML,65,2027-08-20
+Harpic,Harpic Power Plus Original 150ml,Harpic,150 ML,85,2027-09-30
+Harpic,Harpic Power Plus Original 200ml,Harpic,200 ML,95,2027-11-05
+Harpic,Harpic Power Plus Original 250ml,Harpic,250 ML,115,2028-01-12
+Harpic,Harpic Power Plus Original 300ml,Harpic,300 ML,135,2028-02-18
+Harpic,Harpic Power Plus Original 400ml,Harpic,400 ML,160,2028-04-05
+Harpic,Harpic Power Plus Original 450ml,Harpic,450 ML,170,2028-05-20
+Harpic,Harpic Power Plus Original 500ml,Harpic,500 ML,180,2028-01-20
+Harpic,Harpic Power Plus Original 600ml,Harpic,600 ML,215,2028-07-10
+Harpic,Harpic Power Plus Original 750ml,Harpic,750 ML,255,2028-09-15
+Harpic,Harpic Power Plus Original 900ml,Harpic,900 ML,300,2028-11-30
+Harpic,Harpic Power Plus Original 1L,Harpic,1 L,330,2028-09-10
+Harpic,Harpic Power Plus Original 1.25L,Harpic,1.25 L,395,2029-01-25
+Harpic,Harpic Power Plus Original 1.5L,Harpic,1.5 L,470,2029-04-18
+Harpic,Harpic Power Plus Original 2L,Harpic,2 L,620,2029-02-14
+Harpic,Harpic Power Plus Original 3L,Harpic,3 L,920,2029-06-30
+Harpic,Harpic Power Plus Original 4L,Harpic,4 L,1180,2029-09-18
+Harpic,Harpic Power Plus Original 5L,Harpic,5 L,1480,2029-06-30
+Harpic,Harpic Power Plus Original 7.5L,Harpic,7.5 L,2150,2030-01-20
+Harpic,Harpic Power Plus Original 10L,Harpic,10 L,2850,2030-01-25
+Harpic,Harpic Power Plus Original 12L,Harpic,12 L,3300,2030-05-15
+Harpic,Harpic Power Plus Original 15L,Harpic,15 L,4100,2030-09-10
+Harpic,Harpic Power Plus Original 20L,Harpic,20 L,5600,2031-03-18
+Harpic,Harpic Power Plus Original 25L,Harpic,25 L,6900,2031-08-22
+Harpic,Harpic Power Plus Original 30L,Harpic,30 L,8200,2032-02-10
+Himalaya_Shamapoo,Himalaya Gentle Daily Care Shampoo 20ml,Himalaya,20 ML,15,2027-03-10
+Himalaya_Shamapoo,Himalaya Gentle Daily Care Shampoo 30ml,Himalaya,30 ML,22,2027-04-05
+Himalaya_Shamapoo,Himalaya Gentle Daily Care Shampoo 40ml,Himalaya,40 ML,28,2027-05-02
+Himalaya_Shamapoo,Himalaya Gentle Daily Care Shampoo 50ml,Himalaya,50 ML,35,2027-06-10
+Himalaya_Shamapoo,Himalaya Gentle Daily Care Shampoo 70ml,Himalaya,70 ML,48,2027-07-18
+Himalaya_Shamapoo,Himalaya Gentle Daily Care Shampoo 100ml,Himalaya,100 ML,65,2027-08-20
+Himalaya_Shamapoo,Himalaya Gentle Daily Care Shampoo 150ml,Himalaya,150 ML,95,2027-09-30
+Himalaya_Shamapoo,Himalaya Gentle Daily Care Shampoo 180ml,Himalaya,180 ML,110,2027-11-05
+Himalaya_Shamapoo,Himalaya Gentle Daily Care Shampoo 200ml,Himalaya,200 ML,120,2028-01-12
+Himalaya_Shamapoo,Himalaya Gentle Daily Care Shampoo 250ml,Himalaya,250 ML,145,2028-02-18
+Himalaya_Shamapoo,Himalaya Gentle Daily Care Shampoo 300ml,Himalaya,300 ML,170,2028-03-25
+Himalaya_Shamapoo,Himalaya Gentle Daily Care Shampoo 340ml,Himalaya,340 ML,195,2028-04-30
+Himalaya_Shamapoo,Himalaya Gentle Daily Care Shampoo 400ml,Himalaya,400 ML,220,2028-06-05
+Himalaya_Shamapoo,Himalaya Gentle Daily Care Shampoo 450ml,Himalaya,450 ML,245,2028-07-10
+Himalaya_Shamapoo,Himalaya Gentle Daily Care Shampoo 500ml,Himalaya,500 ML,270,2028-08-18
+Himalaya_Shamapoo,Himalaya Gentle Daily Care Shampoo 600ml,Himalaya,600 ML,315,2028-10-22
+Himalaya_Shamapoo,Himalaya Gentle Daily Care Shampoo 650ml,Himalaya,650 ML,340,2028-12-05
+Himalaya_Shamapoo,Himalaya Gentle Daily Care Shampoo 700ml,Himalaya,700 ML,365,2029-01-18
+Himalaya_Shamapoo,Himalaya Gentle Daily Care Shampoo 750ml,Himalaya,750 ML,390,2029-03-05
+Himalaya_Shamapoo,Himalaya Gentle Daily Care Shampoo 800ml,Himalaya,800 ML,420,2029-04-20
+Himalaya_Shamapoo,Himalaya Gentle Daily Care Shampoo 900ml,Himalaya,900 ML,465,2029-06-15
+Himalaya_Shamapoo,Himalaya Gentle Daily Care Shampoo 1L,Himalaya,1 L,520,2029-08-30
+Himalaya_Shamapoo,Himalaya Gentle Daily Care Shampoo 1.25L,Himalaya,1.25 L,620,2029-11-10
+Himalaya_Shamapoo,Himalaya Gentle Daily Care Shampoo 1.5L,Himalaya,1.5 L,740,2030-02-18
+Himalaya_Shamapoo,Himalaya Gentle Daily Care Shampoo 2L,Himalaya,2 L,960,2030-06-25
+Himalaya_Shamapoo,Himalaya Gentle Daily Care Shampoo 3L,Himalaya,3 L,1380,2030-10-10
+Himalaya_Shamapoo,Himalaya Gentle Daily Care Shampoo 5L,Himalaya,5 L,2250,2031-03-15
+Himalaya_Shamapoo,Himalaya Gentle Daily Care Shampoo 7.5L,Himalaya,7.5 L,3300,2031-08-20
+Himalaya_Shamapoo,Himalaya Gentle Daily Care Shampoo 10L,Himalaya,10 L,4200,2032-01-25
+Himalaya_Shamapoo,Himalaya Gentle Daily Care Shampoo 15L,Himalaya,15 L,6100,2032-07-10
+Lizol,Lizol Disinfectant Floor Cleaner Citrus 50ml,Lizol,50 ML,25,2027-03-10
+Lizol,Lizol Disinfectant Floor Cleaner Citrus 75ml,Lizol,75 ML,35,2027-04-05
+Lizol,Lizol Disinfectant Floor Cleaner Citrus 100ml,Lizol,100 ML,45,2027-05-18
+Lizol,Lizol Disinfectant Floor Cleaner Citrus 150ml,Lizol,150 ML,65,2027-06-25
+Lizol,Lizol Disinfectant Floor Cleaner Citrus 200ml,Lizol,200 ML,85,2027-07-10
+Lizol,Lizol Disinfectant Floor Cleaner Citrus 250ml,Lizol,250 ML,105,2027-08-20
+Lizol,Lizol Disinfectant Floor Cleaner Citrus 300ml,Lizol,300 ML,125,2027-09-30
+Lizol,Lizol Disinfectant Floor Cleaner Citrus 400ml,Lizol,400 ML,145,2027-11-15
+Lizol,Lizol Disinfectant Floor Cleaner Citrus 500ml,Lizol,500 ML,165,2028-01-22
+Lizol,Lizol Disinfectant Floor Cleaner Citrus 600ml,Lizol,600 ML,195,2028-03-05
+Lizol,Lizol Disinfectant Floor Cleaner Citrus 750ml,Lizol,750 ML,235,2028-04-15
+Lizol,Lizol Disinfectant Floor Cleaner Citrus 900ml,Lizol,900 ML,270,2028-06-10
+Lizol,Lizol Disinfectant Floor Cleaner Citrus 1L,Lizol,1 L,300,2028-09-05
+Lizol,Lizol Disinfectant Floor Cleaner Citrus 1.25L,Lizol,1.25 L,360,2028-11-18
+Lizol,Lizol Disinfectant Floor Cleaner Citrus 1.5L,Lizol,1.5 L,420,2029-01-30
+Lizol,Lizol Disinfectant Floor Cleaner Citrus 2L,Lizol,2 L,580,2029-02-12
+Lizol,Lizol Disinfectant Floor Cleaner Citrus 3L,Lizol,3 L,840,2029-05-20
+Lizol,Lizol Disinfectant Floor Cleaner Citrus 4L,Lizol,4 L,1080,2029-08-18
+Lizol,Lizol Disinfectant Floor Cleaner Citrus 5L,Lizol,5 L,1380,2029-08-30
+Lizol,Lizol Disinfectant Floor Cleaner Citrus 7.5L,Lizol,7.5 L,2050,2030-01-15
+Lizol,Lizol Disinfectant Floor Cleaner Citrus 10L,Lizol,10 L,2800,2030-06-25
+Lizol,Lizol Disinfectant Floor Cleaner Citrus 15L,Lizol,15 L,4200,2030-11-10
+Lizol,Lizol Disinfectant Floor Cleaner Citrus 20L,Lizol,20 L,5600,2031-03-18
+Lux_Soap,Lux Soap 20g,Lux,20 G,20,2027-03-10
+Lux_Soap,Lux Soap 25g,Lux,25 G,25,2027-04-05
+Lux_Soap,Lux Soap 30g,Lux,30 G,25,2027-04-25
+Lux_Soap,Lux Soap 40g,Lux,40 G,30,2027-05-20
+Lux_Soap,Lux Soap 50g,Lux,50 G,32,2027-06-15
+Lux_Soap,Lux Soap 60g,Lux,60 G,25,2027-07-18
+Lux_Soap,Lux Soap 70g,Lux,70 G,28,2027-08-22
+Lux_Soap,Lux Soap 75g,Lux,75 G,28,2027-06-15
+Lux_Soap,Lux Soap 80g,Lux,80 G,30,2027-09-30
+Lux_Soap,Lux Soap 90g,Lux,90 G,34,2027-11-05
+Lux_Soap,Lux Soap 100g,Lux,100 G,38,2028-12-09
+Lux_Soap,Lux Soap 110g,Lux,110 G,42,2028-01-20
+Lux_Soap,Lux Soap 120g,Lux,120 G,45,2028-02-18
+Lux_Soap,Lux Soap 125g,Lux,125 G,48,2028-03-10
+Lux_Soap,Lux Soap 140g,Lux,140 G,52,2028-04-25
+Lux_Soap,Lux Soap 150g,Lux,150 G,45,2028-03-20
+Lux_Soap,Lux Soap 160g,Lux,160 G,55,2028-06-10
+Lux_Soap,Lux Soap 175g,Lux,175 G,60,2028-08-18
+Lux_Soap,Lux Soap 180g,Lux,180 G,62,2028-10-05
+Lux_Soap,Lux Soap 200g,Lux,200 G,65,2029-01-10
+Lux_Soap,Lux Soap 225g,Lux,225 G,72,2029-03-15
+Lux_Soap,Lux Soap 250g,Lux,250 G,80,2029-04-18
+Lux_Soap,Lux Soap 275g,Lux,275 G,88,2029-06-12
+Lux_Soap,Lux Soap 300g,Lux,300 G,95,2029-06-25
+Lux_Soap,Lux Soap 350g,Lux,350 G,110,2029-09-10
+Lux_Soap,Lux Soap 400g,Lux,400 G,125,2029-11-30
+Lux_Soap,Lux Soap 450g,Lux,450 G,140,2030-02-15
+Lux_Soap,Lux Soap 500g,Lux,500 G,155,2030-05-20
+Lux_Soap,Lux Soap 2 x 50g,Lux,100 G,40,2028-02-10
+Lux_Soap,Lux Soap 2 x 75g,Lux,150 G,55,2028-06-30
+Lux_Soap,Lux Soap 2 x 100g,Lux,200 G,72,2028-03-12
+Lux_Soap,Lux Soap 3 x 75g,Lux,225 G,78,2028-08-20
+Lux_Soap,Lux Soap 3 x 100g,Lux,300 G,110,2029-01-22
+Lux_Soap,Lux Soap Family Pack 500g,Lux,500 G,150,2030-06-20
+Lux_Soap,Lux Soap Value Pack 1kg,Lux,1 KG,290,2031-01-15
+Lux_Soap,Lux Soap Economy 75g,Lux,75 G,26,2027-09-25
+Maggi_Noodles,Maggi 2-Minute Noodles 35g,Maggi,35 G,10,2027-03-10
+Maggi_Noodles,Maggi 2-Minute Noodles 50g,Maggi,50 G,14,2027-04-05
+Maggi_Noodles,Maggi 2-Minute Noodles 70g,Maggi,70 G,18,2027-05-12
+Maggi_Noodles,Maggi 2-Minute Noodles 70g,Maggi,70 G,20,2027-06-18
+Maggi_Noodles,Maggi 2-Minute Noodles 70g,Maggi,70 G,22,2027-07-25
+Maggi_Noodles,Maggi 2-Minute Noodles 100g,Maggi,100 G,28,2027-08-30
+Maggi_Noodles,Maggi 2-Minute Noodles 120g,Maggi,120 G,32,2027-10-05
+Maggi_Noodles,Maggi 2-Minute Noodles 140g,Maggi,140 G,36,2027-11-15
+Maggi_Noodles,Maggi 2-Minute Noodles 200g,Maggi,200 G,55,2028-01-10
+Maggi_Noodles,Maggi 2-Minute Noodles 280g,Maggi,280 G,75,2028-03-22
+Maggi_Noodles,Maggi 2-Minute Noodles 4 x 70g,Maggi,280 G,78,2028-04-25
+Maggi_Noodles,Maggi 2-Minute Noodles 6 x 70g,Maggi,420 G,110,2028-06-30
+Maggi_Noodles,Maggi 2-Minute Noodles 8 x 70g,Maggi,560 G,145,2028-08-18
+Maggi_Noodles,Maggi 2-Minute Noodles 12 x 70g,Maggi,840 G,210,2028-11-30
+Maggi_Noodles,Maggi 2-Minute Noodles Family Pack 1kg,Maggi,1 KG,250,2029-02-14
+Maggi_Noodles,Maggi 2-Minute Noodles Mega Pack 2kg,Maggi,2 KG,480,2029-07-10
+Maggi_Noodles,Maggi 2-Minute Noodles Bulk Pack 5kg,Maggi,5 KG,1150,2030-01-25
+Milky_Bikis,Milk Bikis 25g,Britannia,25 G,5,2027-03-10
+Milky_Bikis,Milk Bikis 50g,Britannia,50 G,10,2027-04-15
+Milky_Bikis,Milk Bikis 75g,Britannia,75 G,15,2027-05-20
+Milky_Bikis,Milk Bikis 100g,Britannia,100 G,20,2027-06-25
+Milky_Bikis,Milk Bikis 150g,Britannia,150 G,28,2027-08-10
+Milky_Bikis,Milk Bikis 200g,Britannia,200 G,35,2027-10-05
+Milky_Bikis,Milk Bikis Family Pack 300g,Britannia,300 G,50,2028-01-18
+Milky_Bikis,Milk Bikis Mega Pack 500g,Britannia,500 G,80,2028-05-22
+Nestle_Milk_Powder,Nestle Milk Powder 20g,Nestle,20 G,18,2027-03-10
+Nestle_Milk_Powder,Nestle Milk Powder 25g,Nestle,25 G,22,2027-04-05
+Nestle_Milk_Powder,Nestle Milk Powder 40g,Nestle,40 G,32,2027-05-20
+Nestle_Milk_Powder,Nestle Milk Powder 50g,Nestle,50 G,40,2027-06-15
+Nestle_Milk_Powder,Nestle Milk Powder 75g,Nestle,75 G,58,2027-07-25
+Nestle_Milk_Powder,Nestle Milk Powder 100g,Nestle,100 G,75,2027-09-10
+Nestle_Milk_Powder,Nestle Milk Powder 150g,Nestle,150 G,110,2027-11-30
+Nestle_Milk_Powder,Nestle Milk Powder 200g,Nestle,200 G,145,2028-02-14
+Nestle_Milk_Powder,Nestle Milk Powder 250g,Nestle,250 G,180,2028-05-22
+Nestle_Milk_Powder,Nestle Milk Powder 400g,Nestle,400 G,290,2028-08-30
+Nestle_Milk_Powder,Nestle Milk Powder 500g,Nestle,500 G,350,2028-11-18
+Nestle_Milk_Powder,Nestle Milk Powder 1kg,Nestle,1 KG,680,2029-03-25
+Nestle_Milk_Powder,Nestle Milk Powder Family Pack 2kg,Nestle,2 KG,1320,2029-09-10
+Parachute_Oil,Parachute Coconut Oil 50ml,Parachute,50 ML,30,2026-08-15
+Parachute_Oil,Parachute Coconut Oil 100ml,Parachute,100 ML,55,2026-11-20
+Parachute_Oil,Parachute Coconut Oil 250ml,Parachute,250 ML,120,2027-03-12
+Parachute_Oil,Parachute Coconut Oil 500ml,Parachute,500 ML,220,2027-09-05
+Parachute_Oil,Parachute Coconut Oil 1L,Parachute,1 L,420,2028-01-25
+Parachute_Oil,Parachute Coconut Oil 200ml,Parachute,200 ML,95,2027-01-18
+Parachute_Oil,Parachute Coconut Oil 300ml,Parachute,300 ML,150,2027-06-22
+Parachute_Oil,Parachute Coconut Oil 750ml,Parachute,750 ML,330,2027-11-30
+Parachute_Oil,Parachute Coconut Oil 2L,Parachute,2 L,820,2028-08-10
+Plastic_Bottle,Plastic Bottle 500ml,Generic,500 ML,120,NA
+Plastic_Bottle,Plastic Bottle 1L,Generic,1 L,180,NA
+Plastic_Bottle,Plastic Bottle 1.5L,Generic,1.5 L,220,NA
+Plastic_Bottle,Plastic Bottle 2L,Generic,2 L,250,NA
+Plastic_Bottle,Plastic Bottle 5L,Generic,5 L,420,NA
+Pril_Liquid,Pril Dishwash Liquid 100ml,Pril,100 ML,35,2026-09-10
+Pril_Liquid,Pril Dishwash Liquid 250ml,Pril,250 ML,65,2026-12-05
+Pril_Liquid,Pril Dishwash Liquid 500ml,Pril,500 ML,110,2027-01-10
+Pril_Liquid,Pril Dishwash Liquid 750ml,Pril,750 ML,155,2027-06-18
+Pril_Liquid,Pril Dishwash Liquid 1L,Pril,1 L,195,2027-11-25
+Pril_Liquid,Pril Dishwash Liquid 50ml,Pril,50 ML,20,2026-07-15
+Pril_Liquid,Pril Dishwash Liquid 75ml,Pril,75 ML,28,2026-08-20
+Pril_Liquid,Pril Dishwash Liquid 150ml,Pril,150 ML,45,2026-10-30
+Pril_Liquid,Pril Dishwash Liquid 200ml,Pril,200 ML,55,2026-11-18
+Pril_Liquid,Pril Dishwash Liquid 300ml,Pril,300 ML,78,2027-02-22
+Pril_Liquid,Pril Dishwash Liquid 400ml,Pril,400 ML,95,2027-04-05
+Pril_Liquid,Pril Dishwash Liquid 600ml,Pril,600 ML,130,2027-05-28
+Pril_Liquid,Pril Dishwash Liquid 800ml,Pril,800 ML,165,2027-08-10
+Pril_Liquid,Pril Dishwash Liquid 900ml,Pril,900 ML,180,2027-09-30
+Pril_Liquid,Pril Dishwash Liquid 1.5L,Pril,1.5 L,280,2028-01-15
+Pril_Liquid,Pril Dishwash Liquid 2L,Pril,2 L,360,2028-04-20
+Pril_Liquid,Pril Dishwash Liquid 5L,Pril,5 L,850,2029-02-10
+Pril_Liquid,Pril Dishwash Liquid 10L,Pril,10 L,1650,2030-06-25
+Tata_Salt,Tata Salt 250g,Tata,250 G,8,2027-06-10
+Tata_Salt,Tata Salt 500g,Tata,500 G,15,2027-09-18
+Tata_Salt,Tata Salt 1kg,Tata,1 KG,28,2028-02-14
+Tata_Salt,Tata Salt 2kg,Tata,2 KG,54,2028-06-22
+Tata_Salt,Tata Salt 5kg Family Pack,Tata,5 KG,130,2029-01-05
+Tata_Salt,Tata Salt 10kg Value Pack,Tata,10 KG,250,2029-07-30
+Tata_Salt,Tata Salt 100g,Tata,100 G,5,2027-04-12
+Tata_Salt,Tata Salt 200g,Tata,200 G,7,2027-05-25
+Tata_Salt,Tata Salt 750g,Tata,750 G,22,2027-12-10
+Tata_Salt,Tata Salt 1.5kg,Tata,1.5 KG,40,2028-04-18
+Tata_Salt,Tata Salt 3kg,Tata,3 KG,78,2028-10-05
+Tata_Salt,Tata Salt 4kg,Tata,4 KG,102,2028-12-20
+Tata_Salt,Tata Salt 7kg,Tata,7 KG,175,2029-03-15
+Tata_Salt,Tata Salt 20kg Bulk Pack,Tata,20 KG,480,2030-01-30
+Yardley_Powder,Yardley Talcum Powder 50g,Yardley,50 G,55,2027-06-15
+Yardley_Powder,Yardley Talcum Powder 75g,Yardley,75 G,75,2027-09-20
+Yardley_Powder,Yardley Talcum Powder 100g,Yardley,100 G,95,2028-01-10
+Yardley_Powder,Yardley Talcum Powder 125g,Yardley,125 G,115,2028-04-18
+Yardley_Powder,Yardley Talcum Powder 150g,Yardley,150 G,135,2028-08-05
+Yardley_Powder,Yardley Talcum Powder 200g,Yardley,200 G,175,2028-12-22
+Yardley_Powder,Yardley Talcum Powder 250g,Yardley,250 G,210,2029-03-15
+Yardley_Powder,Yardley Talcum Powder 300g,Yardley,300 G,245,2029-07-30
+Yardley_Powder,Yardley Talcum Powder 400g,Yardley,400 G,320,2029-11-18
+Yardley_Powder,Yardley Talcum Powder 500g,Yardley,500 G,395,2030-02-25
