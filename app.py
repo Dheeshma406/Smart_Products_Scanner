@@ -73,11 +73,11 @@ class_names = [
 ]
 
 # ---------------- DATA LOADING FUNCTIONS ----------------
-@st.cache_resource
 def load_model():
-     # 🔥 OLD h5 cache delete
-    if os.path.exists("product_model.h5"):
-        os.remove("product_model.h5")
+    # 🔥 FORCE CLEAN – old files remove
+    for f in ["product_model.h5", "product_model.keras"]:
+        if os.path.exists(f):
+            os.remove(f)
         
     if not os.path.exists(MODEL_PATH):
         st.info("⬇️ Downloading AI model… Please wait")
@@ -252,4 +252,5 @@ elif page == "ℹ️ About":
 
 # ---------------- FOOTER ----------------
 st.markdown("---")
+
 st.caption("© Smart Product Scanner | Deep Learning + Streamlit")
