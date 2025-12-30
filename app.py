@@ -23,7 +23,7 @@ IMG_SIZE = 128
 MODEL_PATH = "product_model.keras"
 CSV_PATH = "product.csv"  # Unified this path
 LOGO_PATH = "logo.png"
-FILE_ID = '1cr3Xg8J8M40Gy-pfW_bq_9onL9QbxI4F'
+FILE_ID = '1Dm5UbOWYA6Pc6G7Q-8uWJHRssajkVrZv'
 
 # ---------------- LOADING SCREEN (SPINNING LOGO) ----------------
 if "loaded" not in st.session_state:
@@ -74,17 +74,22 @@ class_names = [
 
 # ---------------- DATA LOADING FUNCTIONS ----------------
 def load_model():
-    # 🔥 FORCE CLEAN – old files remove
+    # delete any leftovers from old files
     for f in ["product_model.h5", "product_model.keras"]:
         if os.path.exists(f):
             os.remove(f)
-        
-    if not os.path.exists(MODEL_PATH):
-        st.info("⬇️ Downloading AI model… Please wait")
-        url = f"https://drive.google.com/uc?id={FILE_ID}"
-        gdown.download(url, MODEL_PATH, quiet=False)
+
+    st.info("⬇️ Downloading AI model… Please wait")
+
+    gdown.download(
+        id=FILE_ID,
+        output=MODEL_PATH,
+        quiet=False,
+        fuzzy=True
+    )
 
     return tf.keras.models.load_model(MODEL_PATH)
+
 
 
 @st.cache_data(show_spinner=False)
@@ -254,3 +259,4 @@ elif page == "ℹ️ About":
 st.markdown("---")
 
 st.caption("© Smart Product Scanner | Deep Learning + Streamlit")
+
